@@ -10,7 +10,6 @@ public class exceptionHandeling {
 
 
         }catch(Exception e){
-            System.out.println(e+" nahi hoga bhai");
         }
         System.out.println("byeeeee!!!");
     }
